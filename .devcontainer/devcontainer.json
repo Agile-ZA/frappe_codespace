@@ -5,7 +5,8 @@
       "repositories": {
         "weiserman/ghg123": {
           "permissions": {
-            "issues": "write"
+            "contents": "write",
+            "pull_requests": "write"
           }
         }
       }
