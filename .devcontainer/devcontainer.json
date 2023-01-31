@@ -1,5 +1,16 @@
 {
   "name": "Frappe Bench",
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "weiserman/ghg123": {
+          "permissions": {
+            "issues": "write"
+          }
+        }
+      }
+    }
+  }  
   "forwardPorts": [8000, 9000, 6787],
   "remoteUser": "frappe",
   "settings": {
