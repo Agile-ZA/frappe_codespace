@@ -3,7 +3,7 @@
   "customizations": {
     "codespaces": {
       "repositories": {
-        "weiserman/ghg123": {
+        "weiserman/cap": {
             "permissions": "write-all"
         }
       }
